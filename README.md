@@ -11,7 +11,7 @@
 
 <div> 
  
-  <a href = "mailto:gleandro0795@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target=""></a>
+  <a href = "mailto:gleandro0795@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red" target=""></a>
   <a href="https://www.linkedin.com/in/gleandro0795/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target=""></a> 
  
  
