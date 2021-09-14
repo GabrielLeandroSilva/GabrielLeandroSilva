@@ -10,7 +10,7 @@
   <a href = "mailto:gleandro0795@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red" target=""></a>
   <a href="https://www.linkedin.com/in/gleandro0795/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target=""></a> 
  
-  ![Snake animation](https://github.com/GabrielLeandroSilva/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/GabrielLeandroSilva/GabrielLeandroSilva/blob/output/github-contribution-grid-snake.svg)
   
 </div>
  
