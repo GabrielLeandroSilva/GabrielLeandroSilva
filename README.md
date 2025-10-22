@@ -1,4 +1,4 @@
-## Hello world, eu sou o Gabriel.
+## Gabriel Leandro | Desenvolvedor Front End
 <div>
   <a href="https://github.com/GabrielLeandroSilva">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GabrielLeandroSilva&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
