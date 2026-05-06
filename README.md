@@ -18,12 +18,21 @@
 
 ---
 
-## 📊 GitHub Stats
-
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GabrielLeandroSilva&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielLeandroSilva&layout=compact&langs_count=7&theme=tokyonight"/>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Desenvolvedor+Front+End;Next.js+%2B+Tailwind+CSS+%2B+PWA;Interfaces+modernas+e+performáticas;Apaixonado+por+design+e+código)](https://git.io/typing-svg)
+
 </div>
+
+---
+
+## 👨‍💻 Sobre mim
+
+- 🖥 Desenvolvedor **Front End** com foco em interfaces modernas, responsivas e acessíveis
+- 🚀 Trabalhando com **Next.js**, **Angular**, **Tailwind CSS** e **PWA**
+- 🎨 Experiência em prototipação com **Figma** e **Adobe XD**
+- 🎮 Nas horas vagas, exploro desenvolvimento de jogos com **Unity** e **Unreal Engine**
+- 📍 Sorocaba, SP — Brasil
 
 ---
 
